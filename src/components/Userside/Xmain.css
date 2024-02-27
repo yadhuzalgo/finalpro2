@@ -1,0 +1,9 @@
+.body {
+    background-image: url('black.avif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.yt{
+    color: aliceblue;
+}
